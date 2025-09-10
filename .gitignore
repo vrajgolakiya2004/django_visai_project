@@ -13,8 +13,6 @@ __pycache__/
 *.sqlite3
 
  
- 
- 
 # Ignore FAISS DB folder
 faiss_db/
  
@@ -23,7 +21,6 @@ faiss_db/
 __pycache__/
 *.py[cod]
 .env
- 
  
  
 # Others
