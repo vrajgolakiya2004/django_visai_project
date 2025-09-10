@@ -2,6 +2,7 @@ import os
 import groq
 from . import retriever
 
+print("hello")
 # Load API key from environment
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
  
